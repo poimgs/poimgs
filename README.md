@@ -9,6 +9,7 @@ While you can find some of my projects here on GitHub, you can find others in th
 
 **Streamlit**
 - [Analyse logs from scans and attacks](https://share.streamlit.io/poimgs/soc_checker/sample/app/app.py)
+- [Compare HDBs by various dimensions](https://share.streamlit.io/poimgs/perspectives-on-singapore-housing-prices/streamlit/streamlit_dashboard_2/streamlit_app.py)
 
 **Deepnote**
 > Coming Soon! (Btw, deepnote was my second love that helped to love Data Analytics more <3 )
