@@ -1,6 +1,6 @@
 # Hi! I am Steven! 👋
 
-My first love was Data Analytics and my love has only grown to accommodate other areas surrounding it, including Dev Ops, Cyber Security and Web Development. 
+My first love was Data Analytics and my love has only grown to accommodate other areas surrounding it, including DevOps, Cyber Security and Web Development. 
 
 While you can find some of my projects here on GitHub, you can find others in the links below!
 
