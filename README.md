@@ -1,8 +1,19 @@
 # Hi! I am Steven! 👋
 
-My first love was Data Analytics and my love has only grown to accommodate other areas surrounding it, including DevOps, Cyber Security and Web Development. 
+I have a burning passion for creating systems and have been expressing that passion through coding and tech since 2019. My drive has helped me to self-learn Data Analytics and Web Development while pursuing Business Management in SMU. 
 
-While you can find some of my projects here on GitHub, you can find others in the links below!
+Since then, I have taken up projects with multiple companies that has strengthened my abilities to create systems through coding. I have also shared my passion through teaching Python and Data Analytics as a curriculum director in the Business Intelligence and Analytics Club. 
+
+To expand my skillsets, I pursued an education in Cyber Security through Centre for Cybersecurity. The experience opened my eyes to the possibility of creating even larger, more beautiful systems. In particular, the Elastic Stack re-invigorated my burning passion as it combined elements of Data Analytics, Web Development and Cyber Security into one complete, seamless package. 
+
+I am currently diving deep into the world of DevSecOps as I believe it is the next best step for me to create better systems as it enables good, clean code to be deployed to a robust and organised infrastructure.
+
+Below, you can see the journey I have taken thus far through the projects I have embarked on so far!
+
+## Projects
+
+**Web Apps**
+- [StackOverflow for Students by Students](https://student-collab.com/)
 
 **Tableau**
 - [Singapore Cybersecurity Job Market](https://public.tableau.com/app/profile/steven.chia/viz/SingaporeCybersecurityJobMarket/SingaporeCybersecurityJobMarket)
@@ -12,13 +23,7 @@ While you can find some of my projects here on GitHub, you can find others in th
 - [Compare HDBs by various dimensions](https://share.streamlit.io/poimgs/perspectives-on-singapore-housing-prices/streamlit/streamlit_dashboard_2/streamlit_app.py)
 
 **Deepnote**
-> Coming Soon! (Btw, Deepnote was my second love that helped to love Data Analytics more <3 )
-
-## Current Interest
-
-I am currently seeking projects to understand, create, and break systems. 
-In other words, I am delving deeper into DevOps to create systems and Cyber Security to break and protect systems. 
-Through this, I hope to use what I have learnt from Data Analytics to understand these systems and use Web Development to express what I have learnt to the general audience.
+- [Singapore HDB Comparison visualiser](https://deepnote.com/project/Singapore-HDB-Resale-prices-3FiZaWZDToGXlnBhSKyVjQ/)
 
 ## Contact me!
 
